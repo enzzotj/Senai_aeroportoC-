@@ -1,0 +1,16 @@
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\12.05 Senai.exe
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\12.05 Senai.deps.json
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\12.05 Senai.runtimeconfig.json
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\12.05 Senai.runtimeconfig.dev.json
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\12.05 Senai.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\ref\12.05 Senai.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\bin\Debug\net5.0\12.05 Senai.pdb
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.csprojAssemblyReference.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.AssemblyInfoInputs.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.AssemblyInfo.cs
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.csproj.CoreCompileInputs.cache
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\ref\12.05 Senai.dll
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.pdb
+C:\Users\enzzo\OneDrive\Área de Trabalho\Senai\12.05 Senai\obj\Debug\net5.0\12.05 Senai.genruntimeconfig.cache
